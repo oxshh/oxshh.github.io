@@ -1,8 +1,10 @@
 remote_theme: just-the-docs/just-the-docs
 
-# Navigation
-just_the_docs:
-  collections:
-    docs:
-      name: Documentation
-      nav_order: 1
+collections:
+  en:
+    output: true
+    permalink: /:collection/:path
+  ru:
+    output: true
+    permalink: /:collection/:path
+

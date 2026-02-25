@@ -1,3 +1,11 @@
+---
+title: Русский
+nav_order: 2
+has_children: true
+---
+# Русская версия
+
+
 [🇺🇸 English](../en/index.md) | [🇷🇺 Русский](../ru/index.md)
 
 
