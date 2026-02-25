@@ -1,4 +1,4 @@
-[🇺🇸 US English](../en/index.md) | [🇷🇺 Русский](../ru/index.md)
+[🇺🇸 English](../en/index.md) | [🇷🇺 Русский](../ru/index.md)
 
 # Welcome!
 Here I collect practice and notes on the main areas of cybersecurity.
