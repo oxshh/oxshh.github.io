@@ -1,7 +1,7 @@
 ---
 title: Reverse engineering
 nav_order: 5
-parent: Русский
+parent: English
 ---
 # Reverse engineering
 Notes on reverse engineering.
