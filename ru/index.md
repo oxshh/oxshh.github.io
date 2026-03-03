@@ -11,6 +11,7 @@ has_children: true
 ## Разделы
 - [Веб-безопасность](web-security.md)
 - [Перехват коммуникаций](intercepting.md)
+- [Реверс-инжиниринг](test/index.md)
 - [Криптография](cryptography.md)
 - [Контроль доступа](access-control.md)
 - [Эксплуатация бинарных уязвимостей](binary-exploitation.md)
