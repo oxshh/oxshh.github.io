@@ -63,7 +63,6 @@ print(f"Wrote {len(header)} bytes: {header} to file: '{filename}'")
 ```
 
 
-1)
 ```
 cat << 'EOF' > script.py
 #!/usr/bin/env python3
@@ -84,5 +83,4 @@ EOF
 
 
 ```
-2)
-/challenge/cimg /home/hacker/solution.cimg
+

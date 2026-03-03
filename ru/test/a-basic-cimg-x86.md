@@ -1,12 +1,3 @@
----
-title: Реверс-инжиниринг
-nav_order: 5
-parent: Русский
----
-# Реверс-инжиниринг
-Заметки по реверс-инжинирингу.
-
-A basic Cimg(x86)
 ```
 00401264    int32_t main(int32_t argc, char** argv, char** envp)
 
